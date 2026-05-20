@@ -2,7 +2,7 @@
 
 This repository provides the open-source results associated with our study on **VBFDD-Agent**, an LLM-empowered framework for electric vehicle battery fault detection, diagnosis, and maintenance recommendation generation.
 
-![image]([[https://github.com/sjtu-chan-joey/Battery-Timer/blob/main/Figures/lora.png](https://github.com/sjtu-chan-joey/VBFDD-Agent-Vehicle-Battery-Fault-Detection-and-Diagnosis-Agent/blob/main/experiment_setup.png)](https://github.com/sjtu-chan-joey/VBFDD-Agent-Vehicle-Battery-Fault-Detection-and-Diagnosis-Agent/blob/main/experiment_setup.png))
+![image](https://github.com/sjtu-chan-joey/Battery-Timer/blob/main/Figures/lora.png)
 
 ## Overview
 
@@ -19,7 +19,7 @@ This repository includes:
 - Public source information used to compile the local maintenance knowledge base.
 - Example outputs for battery fault diagnosis and operation-maintenance decision support.
 
-![image]([https://github.com/sjtu-chan-joey/VBFDD-Agent-Vehicle-Battery-Fault-Detection-and-Diagnosis-Agent/blob/main/generation.png](https://github.com/sjtu-chan-joey/VBFDD-Agent-Vehicle-Battery-Fault-Detection-and-Diagnosis-Agent/blob/main/generation.png))
+![image](https://github.com/sjtu-chan-joey/VBFDD-Agent-Vehicle-Battery-Fault-Detection-and-Diagnosis-Agent/blob/main/generation.png)
 
 ## Purpose
 
