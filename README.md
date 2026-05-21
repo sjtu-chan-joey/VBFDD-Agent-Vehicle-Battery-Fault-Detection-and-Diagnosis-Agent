@@ -42,9 +42,5 @@ Due to API instability during corpus generation, the English version of the corp
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@article{your_citation_key,
-  title={VBFDD-Agent: Descriptive Text Modeling of Battery Digital Signals for Electric Vehicle Battery Fault Diagnosis and Maintenance},
-  author={Your Authors},
-  journal={Your Journal},
-  year={2026}
-}
+
+cite as 	arXiv:2605.20742 
