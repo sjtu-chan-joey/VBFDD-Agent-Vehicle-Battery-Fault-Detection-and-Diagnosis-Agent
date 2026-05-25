@@ -49,3 +49,12 @@ If you find this repository useful, please cite our paper:
   journal={arXiv preprint arXiv:2605.20742},
   year={2026}
 }
+```
+## Contributors
+If you have any questions or want to use the code, feel free to contact:
+
+Chan.Joey (SJTU_Chan_Joey@outlook.com)
+
+Zhen Chen (chenzhendr@sjtu.edu.cn)
+
+Wei Wu (393215071@qq.com)
