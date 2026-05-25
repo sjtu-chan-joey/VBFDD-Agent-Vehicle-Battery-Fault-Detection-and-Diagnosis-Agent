@@ -43,4 +43,9 @@ If you find this repository useful, please cite our paper:
 
 ```bibtex
 
-cite as 	arXiv:2605.20742 
+@article{chan2026vbfdd,
+  title={VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals},
+  author={Chan, Joey and Chen, Zhen and Pan, Ershun},
+  journal={arXiv preprint arXiv:2605.20742},
+  year={2026}
+}
